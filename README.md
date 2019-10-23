@@ -1,4 +1,4 @@
-# AWS
+# Amazon Web Services (AWS)
 
 ## Code Pipeline
 
@@ -21,3 +21,7 @@ Continuous Delivery (CD) follows CI, where the code can be automatically tested 
 ### Continuous Deployment
 
 Continuous Deployment (CD) leads to the release of the code to the production environment, where it undergoes finally testing. After said testing, the code is ready to be released to the software's users.
+
+## Virtual Private Cloud (VPC)
+
+A virtual private cloud (VPC) is an on-demand configurable pool of shared computing resources allocated within a public cloud environment. A VPC helps in aspects of cloud computing like privacy, security and preventing loss of proprietary data.
