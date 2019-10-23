@@ -25,3 +25,9 @@ Continuous Deployment (CD) leads to the release of the code to the production en
 ## Virtual Private Cloud (VPC)
 
 A virtual private cloud (VPC) is an on-demand configurable pool of shared computing resources allocated within a public cloud environment. A VPC helps in aspects of cloud computing like privacy, security and preventing loss of proprietary data.
+
+### Region
+
+Before setting up a VPC, a specific Region must be chosen. This chooses which cloud server will be used.
+
+###
